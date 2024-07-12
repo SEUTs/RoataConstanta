@@ -1,0 +1,109 @@
+#roata {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.brat {
+    width: 5.74vh;
+    position: absolute;
+    top: 50%;
+    
+    display: flex;
+}
+
+.beculet {
+    position: absolute;
+    width: 0.6vh;
+    height: 0.6vh;
+    background-color: red;
+    background-clip: padding-box;
+    margin: 0.1vh;
+    border: rgba(255, 0, 0, 0.1) 0.8vw solid;
+    border-radius: 50%;
+}
+
+@keyframes spin1 {
+    0% {transform: rotateZ(360deg)}
+}
+@keyframes spin2 {
+    0% {transform: rotateZ(373.84615384615387deg)}
+}
+@keyframes spin3 {
+    0% {transform: rotateZ(387.6923076923077deg)}
+}
+@keyframes spin4 {
+    0% {transform: rotateZ(401.53846153846155deg)}
+}
+@keyframes spin5 {
+    0% {transform: rotateZ(415.38461538461536deg)}
+}
+@keyframes spin6 {
+    0% {transform: rotateZ(429.2307692307692deg)}
+}
+@keyframes spin7 {
+    0% {transform: rotateZ(443.0769230769231deg)}
+}
+@keyframes spin8 {
+    0% {transform: rotateZ(456.9230769230769deg)}
+}
+@keyframes spin9 {
+    0% {transform: rotateZ(470.7692307692308deg)}
+}
+@keyframes spin10 {
+    0% {transform: rotateZ(484.61538461538464deg)}
+}
+@keyframes spin11 {
+    0% {transform: rotateZ(498.46153846153845deg)}
+}
+@keyframes spin12 {
+    0% {transform: rotateZ(512.3076923076924deg)}
+}
+@keyframes spin13 {
+    0% {transform: rotateZ(526.1538461538462deg)}
+}
+@keyframes spin14 {
+    0% {transform: rotateZ(540deg)}
+}
+@keyframes spin15 {
+    0% {transform: rotateZ(553.8461538461538deg)}
+}
+@keyframes spin16 {
+    0% {transform: rotateZ(567.6923076923077deg)}
+}
+@keyframes spin17 {
+    0% {transform: rotateZ(581.5384615384615deg)}
+}
+@keyframes spin18 {
+    0% {transform: rotateZ(595.3846153846154deg)}
+}
+@keyframes spin19 {
+    0% {transform: rotateZ(609.2307692307693deg)}
+}
+@keyframes spin20 {
+    0% {transform: rotateZ(623.0769230769231deg)}
+}
+@keyframes spin21 {
+    0% {transform: rotateZ(636.9230769230769deg)}
+}
+@keyframes spin22 {
+    0% {transform: rotateZ(650.7692307692307deg)}
+}
+@keyframes spin23 {
+    0% {transform: rotateZ(664.6153846153846deg)}
+}
+@keyframes spin24 {
+    0% {transform: rotateZ(678.4615384615385deg)}
+}
+@keyframes spin25 {
+    0% {transform: rotateZ(692.3076923076924deg)}
+}
+@keyframes spin26 {
+    0% {transform: rotateZ(706.1538461538462deg)}
+}
+
+body {
+    background-color: #050530;
+    overflow: hidden;
+}
